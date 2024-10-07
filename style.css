@@ -1,0 +1,44 @@
+*{
+   text-align : center;
+ }
+  
+body{
+    background-color: burlywood ;
+}
+.r1{
+    text-align : left;
+}
+
+.swim {
+    text-align : left;
+    font-size: 20px;
+    
+}
+.drift{
+    text-align : left;
+    font-size: 20px;
+    
+}
+.t1{
+    text-align : left;
+    font-size: 25px;
+    
+}
+.t2{
+    text-align : left;
+    font-size: 25px;
+    
+}
+.t3{
+    text-align : left;
+    font-size: 25px;
+    
+}
+.pro{
+    text-align : left;
+    font-size: 20px;
+}
+.finish{
+   
+    font-size: 26px;
+}
